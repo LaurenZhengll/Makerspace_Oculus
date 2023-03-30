@@ -58,3 +58,9 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Assets/Scenes/3DPrinter/3D printer.obj.meta
+Assets/Scenes/3DPrinter/3D printer.obj
+*.obj
+Assets/Scenes/BookCase/Bookcase.obj.meta
+*.FBX
+Assets/Scenes/Table/Table.FBX.meta
